@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planetar_Economics", "Planetar Economics\Planetar_Economics\Planetar_Economics.csproj", "{BD77F200-3517-4192-B3B8-A42E8F6E3397}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Planetar_EconomicsContent", "Planetar Economics\Planetar_EconomicsContent\Planetar_EconomicsContent.contentproj", "{1D88EF57-CEEF-4AAD-90CD-113135CDC7DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD77F200-3517-4192-B3B8-A42E8F6E3397}.Debug|x86.ActiveCfg = Debug|x86
+		{BD77F200-3517-4192-B3B8-A42E8F6E3397}.Debug|x86.Build.0 = Debug|x86
+		{BD77F200-3517-4192-B3B8-A42E8F6E3397}.Release|x86.ActiveCfg = Release|x86
+		{BD77F200-3517-4192-B3B8-A42E8F6E3397}.Release|x86.Build.0 = Release|x86
+		{1D88EF57-CEEF-4AAD-90CD-113135CDC7DF}.Debug|x86.ActiveCfg = Debug|x86
+		{1D88EF57-CEEF-4AAD-90CD-113135CDC7DF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

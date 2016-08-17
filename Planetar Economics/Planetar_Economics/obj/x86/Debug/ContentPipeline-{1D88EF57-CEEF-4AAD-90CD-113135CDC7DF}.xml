@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>stars.png</Source>
+      <Name>stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\stars.xnb</Output>
+      <Time>2016-04-13T20:25:05.0017858+02:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_earth_128x128.png</Source>
+      <Name>planet_earth_128x128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\planet_earth_128x128.xnb</Output>
+      <Time>2016-04-15T14:01:34.261896+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sun_white_128x128.png</Source>
+      <Name>sun_white_128x128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\sun_white_128x128.xnb</Output>
+      <Time>2016-04-15T14:10:31.0786001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_ammony_128x128.png</Source>
+      <Name>planet_ammony_128x128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\planet_ammony_128x128.xnb</Output>
+      <Time>2016-04-15T17:56:40.4877259+02:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_carbon_128x128.png</Source>
+      <Name>planet_carbon_128x128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\planet_carbon_128x128.xnb</Output>
+      <Time>2016-04-15T17:57:17.4548403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_ice_128x128.png</Source>
+      <Name>planet_ice_128x128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\planet_ice_128x128.xnb</Output>
+      <Time>2016-04-15T17:58:09.5888222+02:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_iodine_128x128.png</Source>
+      <Name>planet_iodine_128x128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\planet_iodine_128x128.xnb</Output>
+      <Time>2016-04-15T17:58:28.5069043+02:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_sulfur_128x128.png</Source>
+      <Name>planet_sulfur_128x128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\planet_sulfur_128x128.xnb</Output>
+      <Time>2016-04-15T17:57:40.334149+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2016-04-15T22:41:26.7820061+02:00</Time>
+    </Item>
+    <Item>
+      <Source>lock_128x128.png</Source>
+      <Name>lock_128x128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\lock_128x128.xnb</Output>
+      <Time>2016-04-16T16:04:30.6988439+02:00</Time>
+    </Item>
+    <Item>
+      <Source>planet_menu_512x384.png</Source>
+      <Name>planet_menu_512x384</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\planet_menu_512x384.xnb</Output>
+      <Time>2016-04-18T20:42:39.0734707+02:00</Time>
+    </Item>
+    <Item>
+      <Source>impact.spritefont</Source>
+      <Name>impact</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\impact.xnb</Output>
+      <Time>2016-04-17T15:46:55.1532798+02:00</Time>
+    </Item>
+    <Item>
+      <Source>surface_ammony_500x164.png</Source>
+      <Name>surface_ammony_500x164</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\surface_ammony_500x164.xnb</Output>
+      <Time>2016-04-16T19:58:32.5079894+02:00</Time>
+    </Item>
+    <Item>
+      <Source>surface_carbon_500x164.png</Source>
+      <Name>surface_carbon_500x164</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\surface_carbon_500x164.xnb</Output>
+      <Time>2016-04-16T20:29:26.069007+02:00</Time>
+    </Item>
+    <Item>
+      <Source>surface_oxygene_500x164.png</Source>
+      <Name>surface_oxygene_500x164</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\surface_oxygene_500x164.xnb</Output>
+      <Time>2016-04-16T20:33:35.9763009+02:00</Time>
+    </Item>
+    <Item>
+      <Source>prod_cycle_98x140.png</Source>
+      <Name>prod_cycle_98x140</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\prod_cycle_98x140.xnb</Output>
+      <Time>2016-04-16T19:40:28.5529907+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ship_texture_128x128.png</Source>
+      <Name>ship_texture_128x128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\ship_texture_128x128.xnb</Output>
+      <Time>2016-04-17T17:56:58.9056289+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ship_2_menu_512x192.png</Source>
+      <Name>ship_2_menu_512x192</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\ship_2_menu_512x192.xnb</Output>
+      <Time>2016-04-18T20:02:54.7600958+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ship_2_texture_128x128.png</Source>
+      <Name>ship_2_texture_128x128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\ship_2_texture_128x128.xnb</Output>
+      <Time>2016-04-18T21:08:47.6731895+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ship_3_menu_512x192.png</Source>
+      <Name>ship_3_menu_512x192</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\ship_3_menu_512x192.xnb</Output>
+      <Time>2016-04-18T19:57:05.6431275+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ship_3_texture_128x128.png</Source>
+      <Name>ship_3_texture_128x128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\ship_3_texture_128x128.xnb</Output>
+      <Time>2016-04-18T19:53:59.6044867+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ship_menu_512x192.png</Source>
+      <Name>ship_menu_512x192</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\ship_menu_512x192.xnb</Output>
+      <Time>2016-04-17T17:29:45.0761792+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ship_menu_512x384.png</Source>
+      <Name>ship_menu_512x384</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\ship_menu_512x384.xnb</Output>
+      <Time>2016-04-18T20:41:25.2342474+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1D88EF57-CEEF-4AAD-90CD-113135CDC7DF}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_EconomicsContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Users\Krell\Documents\Visual Studio 2015\Projects\Planetar Economics\Planetar Economics\Planetar_Economics\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-12-28T13:41:09.2190826+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
